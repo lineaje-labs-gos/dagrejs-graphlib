@@ -1,9 +1,15 @@
 {
   "name": "graphlib",
-  "version": "2.1.8",
+  "version": "2.1.8-lineaje-01",
   "description": "A directed and undirected multi-graph library",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "main": "index.js",
   "files": [
     "index.js",
@@ -42,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dagrejs/graphlib.git"
+    "url": "https://github.com/lineaje-labs-gos/dagrejs-graphlib"
   }
 }
