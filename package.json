@@ -21,7 +21,7 @@
     "algorithms"
   ],
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": ">=4.18.1"
   },
   "devDependencies": {
     "benchmark": "^2.1.4",
@@ -49,5 +49,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/lineaje-labs-gos/dagrejs-graphlib"
+  },
+  "overrides": {
+    "lodash": ">=4.18.1"
+  },
+  "resolutions": {
+    "lodash": ">=4.18.1"
   }
 }
